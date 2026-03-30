@@ -9,7 +9,7 @@ I am an aspiring DevOps/Cloud Engineer with strong knowledge of Linux internals 
 - **Email:** railgorail@gmail.com
 - **Telegram:** [t.me/railgorail](https://t.me/railgorail)
 - **Certifications:**
-  - [Yandex Cloud Certifications](https://drive.google.com/drive/u/3/folders/1VHvdx_UdAGtaUAZTVGHGTonACCMfbJjP)
+  - [Yandex Cloud Certifications](https://drive.google.com/drive/folders/1VHvdx_UdAGtaUAZTVGHGTonACCMfbJjP)
   - [Google Cloud Certifications](https://www.skills.google/public_profiles/750241b9-29dc-4b08-b519-1d1a3b7a4311)
 
 ---
