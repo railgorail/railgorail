@@ -4,7 +4,7 @@
 
 ## About
 
-I am an DevOps/Cloud Engineer with strong knowledge of Linux internals and cloud platforms (Yandex Cloud, Google Cloud Platform), focused on Kubernetes and DevSecOps practices, with hands-on experience in CI/CD and infrastructure automation, actively building projects and preparing for Yandex Cloud DevOps certification.
+I am DevOps/Cloud Engineer with strong knowledge of Linux internals and cloud platforms (Yandex Cloud, Google Cloud Platform), focused on Kubernetes and DevSecOps practices, with hands-on experience in CI/CD and infrastructure automation, actively building projects and preparing for Yandex Cloud DevOps certification.
 
 - **Email:** railgorail@gmail.com
 - **Telegram:** [t.me/railgorail](https://t.me/railgorail)
